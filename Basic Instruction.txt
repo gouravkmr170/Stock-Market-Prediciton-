@@ -1,0 +1,6 @@
+Instruction:
+1.Open google collab for better support of library files.
+2.Open the .ipynb file into your google collab.
+3.Run the commands.
+4.Upload the two files , first the train file, and later the test file.
+5.At the end you will obtain the graph of prediction.
